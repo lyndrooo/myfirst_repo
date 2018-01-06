@@ -1,6 +1,6 @@
 ## 一个GitHub网页
 
-[知乎-分享你新编的故事](www.zhihu.com)  23333
+[知乎-分享你新编的故事](http://www.zhihu.com)  23333
 
 
 
